@@ -7,7 +7,6 @@ body {
     height: 100%;
     position: relative;
     background-color: black;
-    
 }
 
 .div-complete {
@@ -23,7 +22,6 @@ body {
     height: 100px;
     width: 200px;
 }
-
 
 .div-left {
     background-color: rgb(24, 24, 24 );
@@ -55,26 +53,6 @@ body {
     width: 100rem !important;
     position: relative;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/* body {
-    background-image: url("https://raw.githubusercontent.com/Kalvium-Program/youtube-clone-boilerplate/main/assets/Youtube%20Home%20Page.png");
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100vw;
-    position: sticky;
-    z-index: 10;
-} */
 
 .div-right, .div-left {
     position: absolute;
