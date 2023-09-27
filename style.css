@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    position: relative;
+    background-color: black;
+    
+}
+
+.div-complete {
+    width: 100%;
+}
+
+.div-1 img {
+    height: 100px;
+    width: 100px;
+}
+
+.div-1~img {
+    height: 100px;
+    width: 200px;
+}
+
+
+.div-left {
+    background-color: rgb(24, 24, 24 );
+    width: 20%;
+}
+
+.remove-img {
+    border-image-width: 0%;
+    
+} 
+
+.div-2 {
+    height: 100px;
+    width: 50px;
+}
+
+.di-right {
+    
+}
+
+
+.have-fun{
+    background-color: black;
+    z-index: 10;
+    height: 100rem !important;
+    width: 100rem !important;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+    background-image: url("https://raw.githubusercontent.com/Kalvium-Program/youtube-clone-boilerplate/main/assets/Youtube%20Home%20Page.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    position: sticky;
+    z-index: 10;
+} */
+
+.div-right, .div-left {
+    position: absolute;
+}
