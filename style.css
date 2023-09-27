@@ -32,7 +32,7 @@ body {
 
 .remove-img {
     border-image-width: 0%;
-    
+    position: absolute;
 } 
 
 .div-2 {
@@ -40,10 +40,13 @@ body {
     width: 50px;
 }
 
-.di-right {
-    
+.div-right {
+    position: absolute;
 }
 
+.li-div-2-2 {
+    position: absolute;
+}
 
 .have-fun{
     background-color: black;
